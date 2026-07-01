@@ -44,9 +44,11 @@
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HimanshuDevgan03&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuDevgan03&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HimanshuDevgan03&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HimanshuDevgan03&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ## Connect With Me
