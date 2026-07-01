@@ -12,6 +12,10 @@
 
 📍 Punjab, India
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HimanshuDevgan03&label=Profile+Views" />
+</p>
+
 ## Tech Stack
 
 <p align="center">
@@ -40,11 +44,17 @@
 • KPI Analysis
 • Business Intelligence
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HimanshuDevgan03&label=Profile+Views" />
-</p>
+## Featured Projects
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HimanshuDevgan03)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏥 Healthcare Data Analysis Dashboard
+- Built an interactive Power BI dashboard with 7 report pages
+- Analyzed patient and hospital KPIs
+- Created drill-through and dynamic filtering reports
+
+### 🛒 E-Commerce Sales Dashboard
+- Analyzed sales trends and customer behavior
+- Designed KPI-focused visualizations
+- Generated business insights for decision-making
 
 ## Connect With Me
 
