@@ -40,16 +40,11 @@
 • KPI Analysis
 • Business Intelligence
 
-## GitHub Stats
-
-## GitHub Stats
-
-## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HimanshuDevgan03&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HimanshuDevgan03&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://komarev.com/ghpvc/?username=HimanshuDevgan03&label=Profile+Views" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HimanshuDevgan03)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Connect With Me
 
