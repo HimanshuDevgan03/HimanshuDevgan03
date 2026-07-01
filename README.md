@@ -42,9 +42,12 @@
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=HimanshuDevgan03&show_icons=true)
+## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuDevgan03&layout=compact)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HimanshuDevgan03&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuDevgan03&layout=compact&theme=tokyonight" />
+</p>
 
 ## Connect With Me
 
