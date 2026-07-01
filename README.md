@@ -1,16 +1,52 @@
-## Hi there 👋
+<p align="center">
+  <img src="Banner(Git).png" alt="Banner">
+</p>
 
-<!--
-**HimanshuDevgan03/HimanshuDevgan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Himanshu Devgan 👋
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Power BI | SQL | Python | Excel | Tableau
+
+🎓 B.Tech Computer Engineering
+
+📍 Punjab, India
+
+## Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+📊 Data Analytics
+• Power BI
+• SQL
+• Python
+• Excel
+• Tableau
+
+🛠 Tools & Technologies
+• MySQL
+• Pandas
+• Matplotlib
+• NumPy
+• Git
+• GitHub
+
+📈 Analytics Skills
+• Data Cleaning
+• Data Visualization
+• Dashboard Development
+• KPI Analysis
+• Business Intelligence
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+## Connect With Me
+
+- LinkedIn: Your LinkedIn URL
+- Email: h.devgan123@gmail.com
